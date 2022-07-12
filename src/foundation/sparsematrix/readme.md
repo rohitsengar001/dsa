@@ -1,4 +1,5 @@
 # Sparse Matrix
+![image](https://matteding.github.io/images/coo.gif)
 ![image](https://user-images.githubusercontent.com/39033056/178482402-4a2e7a46-d05c-45af-919c-facf39089bb9.png)
 
 ## Array Representation of sparse matrix
