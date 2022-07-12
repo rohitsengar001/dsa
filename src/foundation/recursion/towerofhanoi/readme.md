@@ -1,6 +1,7 @@
 # TOWER OF HANOI
 
-![img.png](img.png)
+![image](https://miro.medium.com/max/1400/1*Hu8sL0yu5Bvfu0zj8Wj84A.gif)
+
 
 >CODE
  ```java
