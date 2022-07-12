@@ -1,4 +1,4 @@
-package foundation.recursion.sparsematrix;
+package foundation.sparsematrix;
 
 public class SparseMatrix {
     public int m; //row size
