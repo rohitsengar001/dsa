@@ -1,6 +1,7 @@
 # TOWER OF HANOI
 
-![img.png](img.png)
+![image](https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/c0163425-be46-4869-b182-865969bc6dee_tower-of-hanoi.gif)
+
 
 >CODE
  ```java
