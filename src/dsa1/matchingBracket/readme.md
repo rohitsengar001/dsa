@@ -19,5 +19,12 @@
         }
         return st.isEmpty();
     }
+
+        boolean isMatching(Character a , Character b){
+        return (a =='(' && b ==')') || (a =='{' && b =='}') || (a =='[' && b ==']');
+        }
+        boolean isOpening(Character ch){
+        return ch == '(' || ch == '{' || ch == '[';
+        }
 ```
 
