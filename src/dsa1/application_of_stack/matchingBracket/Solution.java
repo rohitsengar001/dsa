@@ -1,4 +1,4 @@
-package dsa1.matchingBracket;
+package dsa1.application_of_stack.matchingBracket;
 
 import java.util.Stack;
 

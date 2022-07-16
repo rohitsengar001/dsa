@@ -1,4 +1,4 @@
-package dsa1.duplicatebracket;
+package dsa1.application_of_stack.duplicatebracket;
 
 import java.util.Stack;
 
