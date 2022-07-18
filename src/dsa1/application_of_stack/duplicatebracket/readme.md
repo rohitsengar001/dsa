@@ -23,3 +23,5 @@
         System.out.println("false");
     }
 ```
+> Complexity :
+> - Time Complexity: ***O(n)***

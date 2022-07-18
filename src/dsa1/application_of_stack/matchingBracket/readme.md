@@ -28,3 +28,4 @@
         }
 ```
 
+> Time Complexity: O(n) [Linear polynomial time]
