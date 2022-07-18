@@ -10,6 +10,27 @@
 > 
 > 
 > 
+>
+### USING ARRAY : COMPLEXITY(O(N^2))
+```JAVA
+public int[] calculateSpan(int price[])
+        {
+            int[] = new int[price.length];
+            // Span value of first day is always 1
+            S[0] = 1;
+
+            // Calculate span value of remaining days by linearly checking
+            // previous days
+            for (int i = 1; i < price.length; i++) {
+                S[i] = 1; // Initialize span value
+    
+                // Traverse left while the next element on left is smaller
+                // than price[i]
+                for (int j = i - 1; (j >= 0) && (price[i] >= price[j]); j--)
+                    S[i]++;
+         }
+        }
+```
 ### USING STACK : COMPLEXITY (O(n))
 ```java
  public int[] findSpan(int[] price){
