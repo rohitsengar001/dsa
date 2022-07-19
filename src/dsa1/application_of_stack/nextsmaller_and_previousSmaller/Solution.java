@@ -39,7 +39,7 @@ public class Solution {
     public static void main(String[] args) {
         int[] nums2 = {1, 3, 4, 2};
         System.out.print("\nnext Smallest value     : ");
-        for (int element : new dsa1.application_of_stack.largestAreainHistogram.Solution().nextSmaller(nums2, "greatest")) {
+        for (int element : new dsa1.application_of_stack.largestAreainHistogram.Solution().nextSmaller(nums2)) {
             System.out.print(element + ",");
         }
         System.out.print("\nprevious Smallest value : ");
