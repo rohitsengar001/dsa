@@ -1,4 +1,7 @@
 # Kadane's Algorithm
+
+![image](https://user-images.githubusercontent.com/39033056/179962423-64867492-0e98-439e-89f6-23526cc0043e.png)
+
  
 ```java
 public int kadanesAlgo(int[] a) {
