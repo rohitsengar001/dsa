@@ -8,13 +8,12 @@ public class Solution {
             //if current sum is not negative then
             if (csum > 0)
                 csum += a[i];
-            else {
+            else 
                 csum = a[i];
 
-                //challenge the current sum to overall sum
-                if (csum > osum)
-                    osum = csum;
-            }
+             //challenge the current sum to overall sum
+             if (csum > osum)
+                  osum = csum;
         }
         return osum;
     }
