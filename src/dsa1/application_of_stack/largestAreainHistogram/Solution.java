@@ -1,6 +1,4 @@
 package dsa1.application_of_stack.largestAreainHistogram;
-
-import java.util.HashMap;
 import java.util.Stack;
 
 public class Solution {
