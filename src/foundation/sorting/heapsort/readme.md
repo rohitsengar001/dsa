@@ -75,3 +75,5 @@
     }
 }
 ```
+## Time complexity:
+>  O(n log n).
