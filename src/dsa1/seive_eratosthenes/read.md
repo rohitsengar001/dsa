@@ -13,5 +13,6 @@
 > $\sqrt{12}$ = 2 $\sqrt{3}$  where $\sqrt{3}$ = 1.73205080757   
 > = 3.46410161514 
 > =~ 3
-![img.png](img.png)
+
+![img.png](./img.png)
 
