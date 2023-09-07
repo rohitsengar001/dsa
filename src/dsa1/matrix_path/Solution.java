@@ -1,4 +1,4 @@
-package matrix_path;
+package dsa1.matrix_path;
 
 public class Solution {
     public static int countPath(int m, int n) {
